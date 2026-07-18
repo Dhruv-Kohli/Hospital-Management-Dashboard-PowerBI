@@ -6,7 +6,7 @@ An interactive **Hospital Management Dashboard** built using **Power BI** to mon
 
 ## 📸 Dashboard Preview
 
-![Hospital Management Dashboard](Image/image/Dashboard.png)
+![Hospital Management Dashboard](Image/Dashboard.png)
 
 ---
 
@@ -79,7 +79,7 @@ Hospital-Management-Dashboard-PowerBI
 │   ├── patients.csv
 │   └── treatments.csv
 │
-├── Images
+├── Image
 │   └── Dashboard.png
 │
 └── README.md
